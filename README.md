@@ -2,9 +2,8 @@
 <a href="https://www.linkedin.com/in/ahmed-dauda-001560417?trk=contact-info"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a CyberSecurity enthusiast with a strong interest in Cloud Security, Security Operation Center (SOC) and Threat Detection.
-## Objective
-[Provide Objective - Remove this afterwards]]
 
+## Objective
 My journey in CyberSecurity has led me to develop a passion for Defensive Security, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills

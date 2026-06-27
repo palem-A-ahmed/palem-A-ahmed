@@ -1,7 +1,7 @@
 # Hello, I'm Ahmed.
 <a href="https://www.linkedin.com/in/ahmed-dauda-001560417?trk=contact-info"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-A CyberSecurity enthusiast with strong interest in Cloud Security, Security Operation Center (SOC) and Threat Detection.
+CyberSecurity-focused with strong interest in Security Operations (SOC), Cloud Security and Threat Detection.
 
 ## Objective
 My journey in CyberSecurity has led me to develop a passion for Defensive Security. I've already put this into practice through hands-on investigation work, and I'm now looking to bring that foundation into a Security Operations Center (SOC) as a Tier 1 Analyst.
@@ -17,6 +17,7 @@ My journey in CyberSecurity has led me to develop a passion for Defensive Securi
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Email analysis | Agenttesla lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]

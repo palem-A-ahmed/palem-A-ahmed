@@ -11,8 +11,8 @@ My journey in CyberSecurity has led me to develop a passion for Defensive Securi
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Phising Analysis and Network Forensics         | <a href="https://google.com">AgentTesla Investigation</a>|
+|AWS Security Monitoring | <a href="https://google.com">s3 bucket monitoring project</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
